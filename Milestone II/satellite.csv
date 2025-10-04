@@ -1,0 +1,266 @@
+name,launch_date,launch_rkt,region,pos,EIRP,sys,beam
+NSS 9,2009-02-12,Ariane 5 - V187,asia,177.0°W,,DVB-S2,Global34-35
+Intelsat 18,2011-10-05,Zenit 3/Baikonur,asia,180.0°E,0,DVB-S2QPSK,Global
+Eutelsat 172B,2017-06-01,Ariane 5 - VA237,asia,172.0°E,0,DVB-S2QPSK,C
+Horizons 3e,2018-09-25,Ariane 5 - VA243,asia,169.0°E,,DVB-S2QPSK,
+Intelsat 19,2012-06-01,Zenit 3/Sea Launch,asia,166.0°E,0,DVB-S,Australia & New Zealand
+ChinaSat 19,2022-11-05,Long March 3B,asia,163.0°E,,,
+Superbird B3,2018-04-05,Ariane 5 - VA242,asia,162.0°E,,DVB-S2QPSK,Japan
+Optus D2,2007-10-05,Ariane 5,asia,160.0°E,,DVB-S28PSK,NZB
+ABS 6,1999-09-26,Proton,asia,159.0°E,,DVB-S,Northern
+Optus D3,2009-08-21,Ariane 5 - V190,asia,156.0°E,0,DVB-S,Australia
+Optus 10,2014-09-11,Ariane 5 - VA218,asia,156.0°E,,DVB-S,FNB
+JCSAT 2B,2016-05-06,Falcon 9,asia,154.0°E,,,
+Optus D1,2006-10-13,Ariane 5,asia,152.0°E,,,
+BRIsat,2016-06-18,Ariane 5 - VA230,asia,150.5°E,,,
+JCSAT 1C,2019-12-17,Falcon 9,asia,150.0°E,,,
+Nusantara Satu,2019-02-22,Falcon 9,asia,146.0°E,0,DVB-S2QPSK,C
+Express AMU7,2021-12-13,Proton,asia,145.0°E,,DVB-S28PSK,Fixed C
+JCSAT 16,2016-08-14,Falcon 9,asia,144.0°E,,,
+Superbird C2,2008-08-14,Ariane 5 - V185,asia,144.0°E,0,DVB-S,Japan
+Apstar 9,2015-10-16,Xichang,asia,142.0°E,,DVB-S28PSK,
+Express AM5,2013-12-26,Proton,asia,140.0°E,0,DVB-S28PSK,Fixed 2
+Express AT2,2014-03-15,Proton,asia,140.0°E,0,DVB-S28PSK,Ku
+Telstar 18 Vantage (Apstar 5C),,,asia,138.0°E,,,
+Apstar 6D,2020-07-09,Long March 3B,asia,134.0°E,,,
+Apstar 6C,2018-05-03,Long March 3B,asia,134.0°E,0,DVB-S,China
+JCSAT 12,2009-08-21,Ariane 5 - V190,asia,132.0°E,,,
+JCSAT 5A,2006-04-12,Zenit 3,asia,132.0°E,0,DVB-S232APSK,Ku
+Vinasat 1,2008-04-18,Ariane 5,asia,132.0°E,,DVB-S28PSK,Ku
+Vinasat 2,2012-05-15,Ariane 5 - VA206,asia,132.0°E,,DVB-S28PSK,Ku
+ChinaSat 6C,2019-03-09,Long March 3B,asia,130.5°E,,DVB-S28PSK,C
+ChinaSat 2D,2019-01-10,Long March 3B,asia,130.0°E,,,
+LaoSat 1,2015-11-20,Long March 3B,asia,128.5°E,0,DVB-S2QPSK,Ku
+JCSAT 3A,2006-08-11,Ariane 5,asia,128.0°E,0,DVB-S28PSK,Ku
+Cosmos 2526,2018-04-18,Proton,asia,128.0°E,,,
+ChinaSat 6D,2022-04-15,Long March 3B/E,asia,125.0°E,0,DVB-S,C
+JCSAT 4B,2012-05-15,Ariane 5 - VA206,asia,124.0°E,0,DVB-S28PSK,Papua New Guinea
+AsiaSat 9,2017-09-28,Proton,asia,122.0°E,0,DVB-S28PSK,Global
+AsiaSat 6/Thaicom 7,2014-09-07,Falcon 9,asia,120.0°E,,DVB-S28PSK,Global
+Thaicom 4,2005-08-11,Ariane,asia,119.3°E,,DVB-S28PSK,Indonesia broadcast
+Bangabandhu 1,2018-05-11,Falcon 9,asia,119.3°E,,DVB-S28PSK,Beam 5
+Telkom 3S,2017-02-14,Ariane 5 - VA235,asia,118.0°E,,DVB-S28PSK,Indonesia
+Koreasat 6,2010-12-29,Ariane 5 - V199,asia,116.0°E,0,DVB-S28PSK,Ku
+Koreasat 7,2017-05-04,Ariane 5 - VA236,asia,116.0°E,,DVB-S2,Korea
+ChinaSat 6B,2007-07-05,Long March 3B,asia,115.5°E,,,
+ChinaSat 6E,2023-11-09,Long March 3B,asia,115.5°E,,DVB-S,
+Koreasat 5,2006-08-22,Zenit 3,asia,113.0°E,,DVB-S,South Korea
+Koreasat 5A,2017-10-30,Falcon 9,asia,113.0°E,0,DVB-S28PSK,
+Merah Putih 2,2024-02-20,Falcon 9,asia,113.0°E,,,
+ChinaSat 10,2011-06-20,Long March 3B,asia,110.5°E,,DVB-S28PSK,C
+BSAT 4B,2020-08-15,Ariane 5 - VA253,asia,110.0°E,,,
+BSAT 3A,2007-08-14,Ariane 5 - V177,asia,110.0°E,,ISDB-S316APSK,Japan
+BSAT 3C/JCSAT 110R,2011-08-06,Ariane 5 - VA203,asia,110.0°E,,ISDB-STC8PSK,
+JCSAT 15,2016-12-21,Ariane 5 - VA234,asia,110.0°E,,ISDB-SQPSK,Ku
+BSAT 4A,2017-09-29,Ariane 5 - VA239,asia,110.0°E,,ISDB-S316APSK,
+SES 7,2009-05-16,Proton,asia,108.2°E,0,DVB-S28PSK,NE Asia
+SES 9,2016-03-04,Falcon 9,asia,108.2°E,0,DVB-S28PSK,NE Asia
+Telkom 4,2018-08-07,Falcon 9,asia,108.2°E,,DVB-S28PSK,SE Asia
+AsiaSat 7,2011-11-25,Proton,asia,105.5°E,36-40,DVB-S28PSK,C
+Express AMU3,2021-12-13,Proton,asia,103.0°E,,DVB-S28PSK,Global
+ChinaSat 9B,2021-09-09,Long March 3B,asia,101.4°E,,ABS-S,
+AsiaSat 5,2009-08-11,Proton,asia,100.5°E,38-40,DVB-S28PSK,C
+ChinaSat 11,2013-05-01,Long March 3B,asia,98.0°E,,DVB-S28PSK,
+G-Sat 9,2017-05-05,GSLV,asia,97.3°E,,DVB-S2QPSK,
+Express 103,2020-07-30,Proton,asia,96.5°E,39.7-41.7,DVB-S28PSK,C Fixed
+SES 8,2013-12-03,Falcon 9,asia,95.0°E,0,DVB-S28PSK,South Asia
+SES 12,2018-06-04,Falcon 9,asia,95.0°E,0,DVB-S28PSK,South Asia
+G-Sat 15,2015-11-10,Ariane 5 - VA227,asia,93.5°E,,DVB-S,India
+G-Sat 17,2017-06-28,Ariane 5 - VA238,asia,93.5°E,,DVB-S,C
+ChinaSat 9,2008-06-09,Long March 3B,asia,92.2°E,0,ABS-S,Ku
+Measat 3b,2014-09-11,Ariane 5 - VA218,asia,91.5°E,0,DVB-S28PSK,Indonesia
+Measat 3d,2022-06-22,Ariane 5 - VA257,asia,91.5°E,0,DVB-S28PSK,Malaysia
+Measat 3a,2009-06-21,Zenit 3/Baikonur,asia,91.5°E,0,DVB-S28PSK,Global
+Yamal 401,2014-12-15,Proton,asia,90.0°E,0,DVB-S28PSK,Russia Ku
+ST 2,2011-05-20,Ariane 5 - VA202,asia,88.0°E,0,DVB-S28PSK,India Continent
+ChinaSat 12,2012-11-27,Long March 3B,asia,87.5°E,,DVB-S28PSK,C
+KazSat 2,2011-07-15,Proton,asia,86.5°E,,DVB-S28PSK,TV
+Intelsat 15,2009-11-30,Zenit 3/Baikonur,asia,85.2°E,,,
+G-Sat 10,2012-09-28,Ariane 5 - VA209,asia,83.0°E,,DVB-S2QPSK,C
+G-Sat 24,2022-06-22,Ariane 5 - VA257,asia,83.0°E,,DVB-S28PSK,
+G-Sat 30,2020-01-16,Ariane 5 - VA251,asia,83.0°E,,DVB-S28PSK,Ku
+Express 80,2020-07-30,Proton,asia,80.0°E,0,DVB-S2QPSK,Ku Fixed
+Thaicom 6,2014-01-06,Falcon 9,asia,78.5°E,36-38,DVB-S,SE Asia C
+Thaicom 8,2016-05-27,Falcon 9,asia,78.5°E,,DVB-S28PSK,SE Asia
+Apstar 7,2012-03-31,Long March 3B,asia,76.5°E,38.5,DVB-S28PSK,C
+ABS 2,2014-02-06,Ariane 5 - VA217,asia,75.0°E,41-43,DVB-S,Southern
+ABS 2A,2016-06-15,Falcon 9,asia,75.0°E,0,DVB-S28PSK,SE Asia 1
+G-Sat 18,2016-10-05,Ariane 5 - VA231,asia,74.0°E,,DVB-S2QPSK,India
+Intelsat 22,2012-03-25,Proton,europe,72.1°E,,DVB-S28PSK,West hemi
+Eutelsat 70B,2012-12-03,Zenit 3/Sea Launch,europe,70.5°E,42-44,DVB-S2QPSK,Central Asia
+Intelsat 20,2012-08-02,Ariane 5 - VA208,europe,68.5°E,37.1-39.1,DVB-S,Landmass
+Intelsat 36,2016-08-24,Ariane 5 - VA232,europe,68.5°E,,DVB-S28PSK,South Africa
+Intelsat 17,2010-11-26,Ariane 5 - V198,europe,66.0°E,38.2,DVB-S28PSK,Landmass
+Amos 4,2013-08-31,Zenit 3/Baikonur,europe,65.0°E,0,DVB-S2QPSK,Nepal
+Intelsat 39,2019-08-06,Ariane 5 - VA249,europe,62.0°E,39.7-41.7,DVB-S28PSK,West hemi
+Intelsat 33e,2016-08-24,Ariane 5 - VA232,europe,60.0°E,0,DVB-S,Sub-Sahara
+KazSat 3,2014-04-28,Proton,europe,58.5°E,,DVB-S28PSK,
+NSS 12,2009-10-26,Ariane 5 - V192,europe,57.0°E,0,DVB-S2QPSK,Global34-36
+Express AT1,2014-03-15,Proton,europe,56.0°E,0,DVB-S28PSK,Wide
+G-Sat 8,2011-05-20,Ariane 5 - VA202,europe,54.9°E,,,
+Yamal 402,2012-12-08,Proton,europe,54.9°E,0,DVB-S28PSK,Southern
+Express AM6 (Eutelsat 53A),,,europe,53.0°E,,,
+Al Yah 1,2011-04-22,Ariane 5 - VA201,europe,52.5°E,49-50,DVB-S,East
+TurkmenÄlem/MonacoSat,2015-04-27,Falcon 9,europe,52.0°E,50-51,DVB-S28PSK,Middle East & North Africa
+Belintersat 1 (ChinaSat 15),,,europe,51.5°E,,,
+Türksat 4B,2015-10-16,Proton/Baikonur,europe,50.0°E,,,
+Yamal 601,2019-05-30,Proton,europe,49.0°E,44-45,DVB-S28PSK,C
+Azerspace 1,2013-02-07,Ariane 5 - VA212,europe,46.0°E,,DVB-S28PSK,Africa & Europe
+Azerspace 2/Intelsat 38,2018-09-25,Ariane 5 - VA243,europe,45.0°E,51.6-53.6,DVB-S28PSK,Europe
+Cosmos 2520,2017-08-16,Proton,europe,45.0°E,,DVB-S2QPSK,
+NigComSat 1R,2011-12-19,Long March 3B,europe,42.5°E,,DVB-S28PSK,Ecowas 2
+Türksat 3A,2008-06-12,Ariane 5,europe,42.0°E,50-52,DVB-S28PSK,West
+Türksat 4A,2014-02-14,Proton,europe,42.0°E,50-53,DVB-S28PSK,East
+Türksat 5B,2021-12-19,Falcon 9,europe,42.0°E,0,DVB-S28PSK,West
+Express AM7,2015-03-18,Proton,europe,40.0°E,0,DVB-S28PSK,C Fixed
+Hellas Sat 3,2017-06-28,Ariane 5 - VA238,europe,39.0°E,48-50,DVB-S28PSK,Europe
+Hellas Sat 4,2019-02-05,Ariane 5 - VA247,europe,39.0°E,,DVB-S28PSK,Europe
+Paksat 1R,2011-08-11,Long March 3B,europe,38.0°E,37,DVB-S28PSK,C
+Express AMU1 (Eutelsat 36C),,,europe,36.0°E,,,
+Eutelsat 36B,2009-11-24,Proton,europe,36.0°E,0,DVB-S,Sub-Sahara Africa
+Eutelsat 33F,2006-08-04,Proton,europe,33.0°E,,,
+Intelsat 28,2011-04-22,Ariane 5 - VA201,europe,33.0°E,,DVB-S2QPSK,Africa Ku
+Türksat 5A,2021-01-08,Falcon 9,europe,31.0°E,51,DVB-S28PSK,MENA
+Arabsat 5A,2010-06-26,Ariane 5 - V195,europe,30.5°E,49,DVB-S,East MENA
+Arabsat 6A,2019-04-11,Falcon 9,europe,30.5°E,,,
+Astra 2E (Eutelsat 28E),,,europe,28.3°E,,,
+Astra 2F (Eutelsat 28F),,,europe,28.3°E,,,
+Astra 2G (Eutelsat 28G),,,europe,28.3°E,,,
+Badr 6,2008-07-07,Araine 5,europe,26.0°E,,,
+Badr 4,2006-11-08,Proton,europe,26.0°E,,,
+Badr 5,2010-06-03,Proton,europe,26.0°E,0,DVB-S28PSK,Central Asia
+Badr 7,2015-11-10,Ariane 5 - VA227,europe,26.0°E,0,DVB-S28PSK,NW Africa
+Badr 8,2023-05-27,Falcon 9,europe,26.0°E,48,DVB-S,EMENA BSS
+Es'hail 2,2018-11-15,Falcon 9,europe,26.0°E,50,DVB-S28PSK,MENA
+Es'hail 1,2013-08-29,Ariane 5 - VA215,europe,25.5°E,50-51,DVB-S,MENA Ku
+Astra 3B,2010-05-21,Ariane 5 - V194,europe,23.5°E,43-45,DVB-S28PSK,Europe Wide
+Astra 3C,2014-03-22,Ariane 5 - VA216,europe,23.5°E,,DVB-S28PSK,West
+Angosat 2,2022-10-12,Proton,europe,23.0°E,,,
+Eutelsat 21B,2012-11-10,Ariane 5 - VA210,europe,21.5°E,47,DVB-S2QPSK,Wide
+Arabsat 5C,2011-09-21,Ariane 5 - VA204,europe,20.0°E,,DVB-S,EMEA
+Astra 1KR,2006-04-20,Atlas 5,europe,19.2°E,0,DVB-S,Europe
+Astra 1L,2007-05-04,Ariane 5 - V176,europe,19.2°E,0,DVB-S,Europe Ku
+Astra 1M,2008-11-05,Proton,europe,19.2°E,47-49,DVB-S2QPSK,Europe Wide
+Astra 1N,2011-08-06,Ariane 5 - VA203,europe,19.2°E,0,DVB-S28PSK,Pan Europe
+Amos 17,2019-08-06,Falcon 9,europe,17.0°E,0,DVB-S2QPSK,West & Central Africa
+Eutelsat 16A,2011-10-07,Long March 3B,europe,16.0°E,0,DVB-S2QPSK,South East Africa
+Hotbird 13F,2022-10-15,Falcon 9,europe,13.0°E,44-46,DVB-S28PSK,Wide
+Hotbird 13G,2022-11-03,Falcon 9,europe,13.0°E,44-46,DVB-S28PSK,Wide
+Eutelsat 10B,2022-11-23,Falcon 9,europe,10.0°E,42-43,DVB-S2QPSK,Wide Ku
+Eutelsat Ka-Sat 9A,2010-12-26,Proton,europe,9.0°E,,,
+Eutelsat 9B,2016-01-29,Proton,europe,9.0°E,45-49,DVB-S28PSK,Wide
+Eutelsat 7B,2013-05-14,Proton,europe,7.0°E,0,DVB-S28PSK,Africa
+Eutelsat 7C,2019-06-20,Ariane 5 - VA248,europe,7.0°E,0,DVB-S2QPSK,Africa
+SES 5,2012-07-09,Proton,europe,4.9°E,0,DVB-S2QPSK,Sub Saharan Africa
+Astra 4A,2007-11-17,Proton,europe,4.9°E,0,DVB-S2QPSK,Europe BSS0-47
+Eutelsat 3B,2014-05-26,Zenit/Sea Launch,europe,3.0°E,38-39,DVB-S28PSK,Global
+Rascom QAF 1R,2010-08-04,Ariane 5 - V196,europe,3.0°E,0,DVB-S28PSK,South
+BulgariaSat 1,2017-06-23,Falcon 9,europe,1.9°E,50-52,DVB-S28PSK,Europe
+Thor 7,2015-04-26,Ariane 5 - VA222,atlantic,0.8°W,0,DVB-S28PSK,Ku
+Thor 5,2008-02-11,Proton,atlantic,0.8°W,0,DVB-S28PSK,T1
+Thor 6,2009-10-26,Ariane 5 - V192,atlantic,0.8°W,0,DVB-S28PSK,K1
+Intelsat 10-02 (Thor 10-02),,,atlantic,0.8°W,,,
+ABS 3A,2015-03-02,Falcon 9,atlantic,3.0°W,0,DVB-S2QPSK,Global
+Amos 7,2014-08-05,Falcon 9,atlantic,4.0°W,52-54,DVB-S,Middle East
+Amos 3,2008-04-28,Zenit 3/Baikonur,atlantic,4.0°W,52-55,DVB-S,Middle East
+Eutelsat 5 West B,2019-10-09,Proton,atlantic,5.0°W,0,DVB-S28PSK,Transalpine
+Nilesat 201,2010-08-04,Ariane 5 - V196,atlantic,7.0°W,48,DVB-S28PSK,Middle East
+Nilesat 301,2022-06-08,Falcon 9,atlantic,7.0°W,,DVB-S,Middle East & North Africa Standard
+Eutelsat 7 West A,2011-09-24,Zenit 3/Sea Launch,atlantic,7.0°W,49,DVB-S,MENA
+Eutelsat 8 West B,2015-08-20,Ariane 5 - VA225,atlantic,8.0°W,39-40,DVB-S2QPSK,C
+Express AM44,2009-02-11,Proton,atlantic,11.0°W,,DVB-S,Global
+Express AM8,2015-09-14,Proton/Baikonur,atlantic,14.0°W,47-48,DVB-S2QPSK,Ku Fixed 2
+Telstar 12 Vantage,2015-11-24,H2A,atlantic,15.0°W,0,DVB-S2QPSK,Pan America
+Intelsat 37e,2017-09-29,Ariane 5 - VA239,atlantic,18.0°W,38.1,DVB-S28PSK,Latin America
+SES 4,2012-02-14,Proton,atlantic,22.0°W,0,DVB-S2,Caribbean & Andes
+Alcomsat 1,2017-12-10,Long March 3B,atlantic,24.8°W,,DVB-S28PSK,
+Intelsat 901,2001-06-09,Ariane 4 - V141,atlantic,27.5°W,,DVB-S2QPSK,East hemi
+Hispasat 30W-5,2010-12-29,Ariane 5 - V199,atlantic,30.0°W,0,DVB-S,America
+Hispasat 30W-6,2018-03-06,Falcon 9,atlantic,30.0°W,0,DVB-S2,America
+Intelsat 35e,2017-07-05,Falcon 9,atlantic,34.5°W,,DVB-S28PSK,Caribbean
+NSS 10,2005-02-03,Proton,atlantic,37.5°W,0,DVB-S,South America
+Telstar 11N,2009-02-26,Zenit 3,atlantic,37.5°W,0,DVB-S,Sub-Saharan Africa
+SES 6,2013-06-03,Proton,atlantic,40.5°W,0,DVB-S28PSK,Brazil
+Sky Brasil 1,2017-02-14,Ariane 5 - VA235,atlantic,43.1°W,,DVB-S,
+Intelsat 14,2009-11-23,Atlas 5,atlantic,45.0°W,0,DVB-S,Americas C
+SES 14,2018-01-25,Ariane 5 - VA241,atlantic,47.5°W,36-38,DVB-S28PSK,Europe & America
+Intelsat 23,2012-10-14,Proton,atlantic,53.0°W,,DVB-S28PSK,West hemi
+Intelsat 34,2015-08-20,Ariane 5 - VA225,atlantic,55.5°W,0,DVB-S28PSK,Americas & Europe
+Intelsat 21,2012-08-19,Zenit 3/Sea Launch,atlantic,58.0°W,0,DVB-S,West hemi
+Amazonas 2,2009-10-01,Ariane 5 - V191,atlantic,61.0°W,0,DVB-S,South America
+Amazonas 3,2013-02-07,Ariane 5 - VA212,atlantic,61.0°W,0,DVB-S2QPSK,America
+Amazonas 5,2017-09-11,Proton,atlantic,61.0°W,,DVB-S,Latin America
+Amazonas Nexus,2023-02-07,Falcon 9,atlantic,61.0°W,,,
+EchoStar 16,2012-11-20,Proton,america,61.5°W,0,DVB-S8PSK,Conus
+Telstar 14R,2011-05-20,Proton,america,63.0°W,,DVB-S28PSK,Southern Cone
+Star One C2,2008-04-18,Ariane 5,america,65.1°W,,DVB-S28PSK,South America
+Eutelsat 65 West A,2016-03-09,Ariane 5 - VA229,america,65.1°W,0,DVB-S28PSK,Americas
+SES 10,2017-03-30,Falcon 9,america,67.0°W,0,DVB-S2X8PSK,Mexico & Central America & Caribbean
+Star One C4,2015-07-15,Ariane 5 - VA224,america,70.0°W,0,DVB-S2QPSK,West Latin America
+Star One D2,2021-07-30,Ariane 5 - VA254,america,70.0°W,0,DVB-S28PSK,Brazil
+Arsat 1,2014-10-16,Ariane 5 - VA220,america,71.8°W,0,DVB-S2X,Argentina
+Nimiq 5,2009-09-17,Proton,america,72.7°W,0,DVB-S8PSK,Conus
+Hispasat 74W-1,2014-03-22,Ariane 5 - VA216,america,73.9°W,0,DVB-S2QPSK,South America
+Star One C3,2012-11-10,Ariane 5 - VA210,america,75.0°W,0,DVB-S28PSK,South America
+QuetzSat 1,2011-09-29,Proton,america,77.0°W,,DVB-S,Conus
+Sky Mexico 1,2015-05-27,Ariane 5 - VA223,america,78.8°W,,DVB-S,Mexico
+Arsat 2,2015-09-30,Ariane 5 - VA226,america,81.0°W,0,DVB-S28PSK,South America
+Nimiq 4,2008-09-19,Proton,america,82.0°W,0,DVB-S8PSK Turbo,Canada
+Star One D1,2016-12-21,Ariane 5 - VA234,america,84.0°W,0,DVB-S28PSK,Brazil C
+Sirius XM 8,2021-06-06,Falcon 9,america,84.0°W,,,
+Galaxy 17,2007-05-04,Ariane 5 - V176,america,85.0°W,,,
+XM 3,2005-03-01,Zenit,america,85.1°W,,MPEG,
+SES 2,2011-09-21,Ariane 5 - VA204,america,87.1°W,,,
+TKSat 1,2013-12-20,Long March 3B,america,87.1°W,,DVB-S28PSK,Ku FSS
+ViaSat 3 Americas,2023-05-01,Falcon Heavy,america,88.9°W,,,
+Galaxy 28,2005-06-23,Zenit,america,89.0°W,,,
+Galaxy 36,2022-12-13,Ariane 5 - VA259,america,89.0°W,,,
+Intelsat 40e,2023-04-07,Falcon 9,america,91.0°W,,,
+Galaxy 32,2022-11-12,Falcon 9,america,91.0°W,,DVB-S,North America
+Nimiq 6,2012-05-17,Proton,america,91.0°W,0,DVB-S,Canada
+Galaxy 35,2022-12-13,Ariane 5 - VA259,america,93.1°W,,DVB-S28PSK,North America C
+Galaxy 3C,2002-06-15,Zenit,america,95.0°W,0,DSS,North America H
+Intelsat 31,2016-06-09,Proton,america,95.0°W,,DSS,
+Intelsat 30,2014-10-16,Ariane 5 - VA220,america,95.0°W,,DSS,
+Jupiter 3/EchoStar 24,2023-07-29,Falcon Heavy,america,95.2°W,,,
+Eutelsat 33E,2009-02-12,Ariane 5 - V187,america,95.4°W,,,
+Galaxy 19,2008-09-24,Zenit 3/Sea Launch,america,97.0°W,0,DVB-S,Ku
+Galaxy 16,2006-06-18,Zenit 3,america,99.2°W,0,DVB-S28PSK,Ku
+T11/T14,,,america,99.2°W,,DVB-S2D,
+T16,2019-06-20,Ariane 5 - VA248,america,101.0°W,,,
+SES 1,2010-04-24,Proton,america,101.0°W,0,DVB-S,North America C
+T9S,2006-10-13,Ariane 5,america,T9S (incl. 0.3°),,,
+T10/T12,,,america,103.0°W,,DVB-S2,Anchorage
+SES 3,2011-07-15,Proton,america,103.0°W,0,DVB-S,North America Ku
+SES 18,2023-03-17,Falcon 9,america,103.0°W,,DVB-S28PSK,
+SES 20,2022-10-04,Atlas,america,103.5°W,,,
+AMC 15,2004-10-14,Proton,america,105.0°W,,,
+EchoStar 105/SES 11,2017-10-11,Falcon 9,america,105.0°W,,DVB-S28PSK,North America C
+Anik F1R,2005-09-08,Proton,america,107.3°W,0,DVB-S28PSK,South America C
+Anik G1,2013-04-15,Proton,america,107.3°W,0,Digicipher 28PSK,North America Extended Ku
+EchoStar 23,2017-03-16,Falcon 9,america,109.9°W,,,
+T5,2002-05-07,Proton,america,110.0°W,,,
+EchoStar 10,2006-02-15,Zenit,america,110.0°W,0,DVB-S8PSK Turbo,Spot 49
+EchoStar 11,2008-07-16,Zenit 3/Sea Launch,america,110.0°W,,DVB-S8PSK,Conus
+Anik F2,2004-07-18,Ariane 5 - V163,america,111.1°W,0,DVB-S28PSK,North America C
+Anik F4,2004-05-19,Atlas 2AS,america,111.1°W,,,
+Eutelsat 113 West A,2006-05-27,Ariane 5,america,112.5°W,,,
+Eutelsat 115 West B,2015-03-02,Falcon 9,america,114.9°W,0,DVB-S2QPSK,Hemi
+Sirius XM 5,2010-10-14,Proton,america,115.2°W,,MPEG,
+Eutelsat 117 West A,2013-03-26,Proton,america,117.0°W,0,DVB-S28PSK,North America
+Eutelsat 117 West B,2016-06-15,Falcon 9,america,117.0°W,0,DVB-S2,South America
+Anik F3,2007-04-09,Proton,america,119.0°W,0,DVB-S,North America Ku
+T8,2005-05-22,Proton,america,119.0°W,,DSS,
+EchoStar 14,2010-03-20,Proton,america,119.0°W,0,DVB-S8PSK,Spot A24
+Galaxy 31,2022-11-12,Falcon 9,america,121.0°W,,,
+Galaxy 18,2008-05-21,Zenit 3/Sea Launch,america,123.0°W,0,DVB-S,Ku
+Galaxy 30,2020-08-15,Ariane 5 - VA253,america,125.0°W,0,DVB-S28PSK,North America
+Galaxy 37/Horizons 4,2023-08-03,Falcon 9,america,127.0°W,0,DVB-S28PSK,North America C
+SES 15,2017-05-18,Soyuz - VS17,america,129.0°W,,DVB-S28PSK,
+Galaxy 34,2022-10-08,Falcon 9,america,129.0°W,,,
+SES 21,2022-10-04,Atlas,america,131.0°W,,DVB-S28PSK,North America
+Galaxy 33,2022-10-08,Falcon 9,america,133.0°W,0,DVB-S28PSK,North America C
+SES 22,2022-06-29,Falcon 9,america,135.0°W,,DVB-S28PSK,North America
+SES 19,2023-03-17,Falcon 9,america,135.0°W,,,
+AMC 6,2000-10-21,Proton,america,139.0°W,,DVB-S,North America
+Galaxy 13/Horizons 1,2003-10-01,Zenit 3,america,150.0°W,,,
